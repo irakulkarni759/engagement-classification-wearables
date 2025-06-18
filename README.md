@@ -8,7 +8,7 @@ This project explores whether user engagement states can be predicted using phys
 
 ## Dataset
 Kaggle Emotional Monitoring Dataset  
-➡ Only wearable-compatible features retained (e.g., heart rate, skin conductance, temperature, ambient noise, light).
+➡ Only wearable-compatible features retained (e.g., heart rate, skin conductance, temperature, ambient noise).
 
 ## Models Implemented
 - Logistic Regression (baseline)
