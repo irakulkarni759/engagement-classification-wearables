@@ -18,4 +18,4 @@ Kaggle Emotional Monitoring Dataset
 - ROC-AUC
 
 ## Results 
-The project showed that multimodal biometric data can classify engagement levels with high accuracy. Random Forest and SVM balanced performance and interpretability well, while XGBoost delivered the strongest results overall. This pipeline offers a promising foundation for attention-aware wearable systems.
+The project showed that multimodal biometric data can classify engagement levels with high accuracy. Random Forest and SVM balanced performance and interpretability well, while XGBoost delivered the strongest results overall. This pipeline offers a promising foundation for attention-aware wearable systems. Please see the Wearable Engagement PDF for a full report of interprable motivations, methods, visualizations, and results. 
